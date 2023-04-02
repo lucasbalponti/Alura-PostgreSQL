@@ -4,7 +4,7 @@
 -- serial: inteiro positivo com incremento automático
 -- numeric: pode ser definida a precisão
 
--- Campos do tipo "string"
+-- Campos do tipo texto
 -- varchar(n): string com limite de tamanho
 -- char(n): string com tamanho exato
 -- text: string sem limitação
